@@ -1,7 +1,7 @@
 # ref: PACK NAME
 ---
-ref: testPack01
-name: testPack01
+ref: testpack01
+name: testpack01
 description: This pack have to make for testing purpose.
 keywords:
     - example

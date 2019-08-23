@@ -1,6 +1,6 @@
 ---
 name: hello
-pack: testPack01
+pack: testpack01
 runner_type: "python-script"
 description: Testing in StackStorm!
 enabled: true
