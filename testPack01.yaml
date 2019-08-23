@@ -1,0 +1,11 @@
+# ref: PACK NAME
+---
+ref: testPack01
+name: testPack01
+description: This pack have to make for testing purpose.
+keywords:
+    - example
+    - test
+version: 3.1.0
+author: StackStorm, Inc.
+email: info@stackstorm.com

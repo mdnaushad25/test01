@@ -1,0 +1,13 @@
+---
+name: hello
+pack: testPack01
+runner_type: "python-script"
+description: Testing in StackStorm!
+enabled: true
+entry_point: test_001.py
+parameters:
+  message:
+    type: "string"
+    description: Enter Your Message..
+    required: true
+    position: 0
